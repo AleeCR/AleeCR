@@ -15,9 +15,7 @@
 ---
 
 ## 📂 Proyectos destacados
-🔹 [📡 Simulador de redes en Python](https://github.com/AleeCR/proyecto1)  
-🔹 [🤖 Algoritmos de IA básicos en C++](https://github.com/AleeCR/proyecto2)  
-🔹 [🌐 Página personal con HTML/CSS/JS](https://github.com/AleeCR/proyecto3)  
+🔹 [💬 App de mensajería local con sockets](https://github.com/AleeCR/app-mensajeria-sockets) – Chat local en Python con **cliente-servidor y P2P usando select**.  
 
 *(iré subiendo más proyectos relacionados con programación y telecomunicaciones)*  
 
