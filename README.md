@@ -16,6 +16,7 @@
 
 ## 📂 Proyectos destacados
 🔹 [💬 App de mensajería local con sockets](https://github.com/AleeCR/app-mensajeria-sockets) – Chat local en Python con **cliente-servidor y P2P usando select**.  
+🔹 [🌐 Escaner de puertos y analizador de red](https://github.com/AleeCR/network-scanner) – Herramienta para **escanear puertos TCP** y **detectar dispositivos** en redes.
 
 *(iré subiendo más proyectos relacionados con programación y telecomunicaciones)*  
 
