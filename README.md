@@ -2,7 +2,7 @@
 
 🎓 Estudiante de **Ingeniería en Telecomunicaciones**  
 💻 Apasionado por la **programación**, las **redes** y la **tecnología**  
-🌱 Actualmente aprendiendo: **Python, C++, JavaScript y sistemas distribuidos**  
+🌱 Actualmente aprendiendo: **Python, JavaScript y sistemas distribuidos**  
 📡 Intereses: **telecomunicaciones, redes, señales y ciberseguridad**  
 
 ---
